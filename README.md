@@ -1,2 +1,1 @@
-# fhenix
-Fhenix contracts
+# Visit [Alphadrops](alphadrops.net/alpha/fhenix)
